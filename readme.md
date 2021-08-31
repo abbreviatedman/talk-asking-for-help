@@ -4,6 +4,8 @@ theme: league
 highlightTheme: a11y-dark
 ---
 
+<!-- If you want to run this, here are the instructions. -->
+
 # Fellow's Guide To Getting Unstuck
 
 ---
