@@ -53,7 +53,7 @@ Make sure to try running your code with different inputs!
 
 ### Research The Bug
 
-Google it!
+The answer is not going to appear while you stare at your screen. The answer is not in your heart. This is where research comes in!
 
 - Google the error message ("TypeError: Undefined is not a function").
 - Google "MDN" + the concept you don’t understand ("MDN array filter callback").
@@ -151,8 +151,8 @@ Can someone help me with my code?
 I'm trying to print my name to the console.
 Here's the code I wrote:
 
-```
-let name = 'Mike';
+```js
+let name = "Mike";
 console(name);
 ```
 
@@ -166,3 +166,11 @@ Uncaught TypeError: console is not a function
 I tried Googling the error message, but the only search results I got were for `console.log`, not the `console` function.
 
 Has anyone else seen this before?
+
+---
+
+# And that's how you ask for help
+
+You're going to need it!
+
+(...because everyone needs it.)
